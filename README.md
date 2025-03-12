@@ -29,7 +29,7 @@ git push origin Hyeonseong # 오리진에 푸시
 └── Hyeonseong #(개인 폴더)
     └── example.py # python 코드 파일(임의의 api key 출력)
     └── .gitignore # gitignore파일(.env와 가상환경파일을 숨김처리)
-    └── print.png # 이미지파일(example.ipynb를 실행했을때 .env에서 api key를 불러와서 출력, 가상환경이 실행중이어야 함)
+    └── print.png # 이미지파일(example.py를 실행했을때 .env에서 api key를 불러와서 출력, 가상환경이 실행중이어야 함)
 ```
 
 ## 커밋 컨벤션
